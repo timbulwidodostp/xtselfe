@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtselfe Fixed-effects estimation with sample selection correction Use xtselfe With STATA 19
